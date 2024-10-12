@@ -21,7 +21,7 @@ Actuellement, nous nous concentrons sur des projets alliant web design et dével
 Si vous souhaitez en savoir plus ou collaborer avec nous, n'hésitez pas à nous contacter :
 
 - **Email** : contact@sombrose.fr
-- **Site Web** : [www.sombrose.com](https://www.sombrose.fr)
+- **Site Web** : [www.sombrose.fr](https://www.sombrose.fr)
 
 Suivez-nous pour ne rien manquer des futurs projets à venir !
 
